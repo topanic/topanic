@@ -12,7 +12,7 @@
 
 <h3 align="center">Top Langs</h3>
 <p align="center">
-  <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topanic&hide=javascript,html,css,gnuplot,java"/>
+  <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topanic&hide=javascript,html,css,scss,gnuplot,java"/>
 </p>
 
 
